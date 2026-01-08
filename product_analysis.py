@@ -11,6 +11,7 @@ print(website_df.head())
 #Checking column names
 print("COLUMNS IN DATSET:")
 print(website_df.columns)
+
 # Rename product-related columns
 website_df = website_df.rename(columns={
     "Item Name": "Product_Name",
@@ -18,7 +19,8 @@ website_df = website_df.rename(columns={
     "First Name (Billing)": "Customer Name",
     "City (Shipping)": "Customer City",
     "Order Shipping Amount": "Delivery Fee",
-    "Total products": "Total Product Ordered"
+    "Total products": "Total Product Ordered",
+    "Order Date": "Order Date"
 })
 
 #Check renamed columns
