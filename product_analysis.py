@@ -2,7 +2,7 @@
 import pandas as pd
 
 #Read WooCommerce CSV and understand that columns in csv are semi colon separated
-website_df = pd.read_csv("NovDec_Sales_v2.csv", sep=";")
+website_df = pd.read_csv("ab_nov_dec_sales2025.csv", sep=";")
 
 
 #Print first 5 rows
@@ -14,12 +14,11 @@ print(website_df.columns)
 # Rename product-related columns
 website_df = website_df.rename(columns={
     "Item Name": "Product_Name",
-    "Item #": "Quantity",
     "Phone (Billing)": "Phone Number",
-    "First Name (Shipping)": "Customer Name",
+    "First Name (Billing)": "Customer Name",
     "City (Shipping)": "Customer City",
     "Order Shipping Amount": "Delivery Fee",
-    "Item Cost": "Product Cost"
+    "Total products": "Total Product Ordered"
 })
 
 #Check renamed columns
