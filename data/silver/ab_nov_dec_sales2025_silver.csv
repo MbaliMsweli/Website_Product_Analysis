@@ -1,0 +1,575 @@
+Order Number;Order Status;Order Date;Customer Name;Phone Number;Product_Name;Total Product Ordered;Order Total Amount;Delivery Fee;Customer Paid Orders;Customer Total Spent;Customer City
+16379;Completed;2025/12/31 11:23;Olwethu;785729687;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;370.0;60;1;370.0;Midrand
+16379;Completed;2025/12/31 11:23;Olwethu;785729687;Kojic Acid Brightening Soap - 100g;2;370.0;60;1;370.0;Midrand
+16378;Completed;2025/12/31 09:08;Busiswa;723764952;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;380.0;60;1;380.0;Mthatha
+16378;Completed;2025/12/31 09:08;Busiswa;723764952;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;380.0;60;1;380.0;Mthatha
+16376;Completed;2025/12/30 21:07;khanyisa;722329640;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;500.0;0;2;1398.0;Johannesburg's
+16376;Completed;2025/12/30 21:07;khanyisa;722329640;Kojic Acid Brightening Soap - 100g;3;500.0;0;2;1398.0;Johannesburg's
+16376;Completed;2025/12/30 21:07;khanyisa;722329640;SPF 50+ Sun Protection - Sunscreen;3;500.0;0;2;1398.0;Johannesburg's
+16375;Completed;2025/12/30 10:29;Mbalenhle;728874266;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;220.0;60;2;340.0;Pietermaritzburg
+16374;Completed;2025/12/30 10:02;Marian;783447767;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;380.0;60;4;2730.0;Middelburg
+16373;Completed;2025/12/29 16:55;Thembi;722727814;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;220.0;60;1;220.0;Newcastle
+16370;Completed;2025/12/26 07:03;Cynthia;847029997;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;610.0;130;1;610.0;Midrand
+16369;Completed;2025/12/24 20:19;Khangwelo;712965769;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;520.0;0;2;1096.0;Polokwane
+16369;Completed;2025/12/24 20:19;Khangwelo;712965769;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;520.0;0;2;1096.0;Polokwane
+16369;Completed;2025/12/24 20:19;Khangwelo;712965769;Vitamin C Brightening & Hydrating Serum;3;520.0;0;2;1096.0;Polokwane
+16368;Completed;2025/12/24 13:12;Mulalo;711802887;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Thohoyandou Bkock f
+16367;Completed;2025/12/24 10:19;Moipone;791697101;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;290.0;130;1;290.0;Johannesburg
+16366;Completed;2025/12/24 06:27;Nomvula;789137523;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Pretoria
+16365;Completed;2025/12/23 17:46;Precious;815603769;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;4;630.0;0;1;630.0;Pretoria
+16365;Completed;2025/12/23 17:46;Precious;815603769;Kojic Acid Brightening Soap - 100g;4;630.0;0;1;630.0;Pretoria
+16365;Completed;2025/12/23 17:46;Precious;815603769;Pimples and Acne Purifying Facial Cleanser - 200ml;4;630.0;0;1;630.0;Pretoria
+16365;Completed;2025/12/23 17:46;Precious;815603769;Dark Inner Thighs & Cellulite Body Scrub;4;630.0;0;1;630.0;Pretoria
+16364;Completed;2025/12/23 14:48;Bareng;717189812;Dark inner thighs & Stretch mark Body Combo;1;418.0;130;1;418.0;Kempton park
+16363;Completed;2025/12/23 06:00;Lebogang;785026407;Kojic Acid Brightening Soap - 100g;2;636.0;0;1;636.0;Dennilton
+16363;Completed;2025/12/23 06:00;Lebogang;785026407;Glow Body Combo;2;636.0;0;1;636.0;Dennilton
+16362;Completed;2025/12/23 05:31;Rirhandzu;634238750;Dark inner thighs & Stretch mark Body Combo;2;508.0;60;2;1056.0;Cape Town
+16362;Completed;2025/12/23 05:31;Rirhandzu;634238750;Dark Inner Thighs & Cellulite Body Scrub;2;508.0;60;2;1056.0;Cape Town
+16361;Completed;2025/12/22 23:56;Nomaxabiso;634520822;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;1;576.0;Cape Town
+16360;Completed;2025/12/22 21:20;Andiswa;645128416;Dark inner thighs & Stretch mark Body Combo;3;668.0;0;1;668.0;Port Elizabeth
+16360;Completed;2025/12/22 21:20;Andiswa;645128416;Face Moisturizer with Hyaluronic Acid  - 80ml;3;668.0;0;1;668.0;Port Elizabeth
+16360;Completed;2025/12/22 21:20;Andiswa;645128416;Vitamin C Brightening & Hydrating Serum;3;668.0;0;1;668.0;Port Elizabeth
+16359;Completed;2025/12/22 20:40;Olwethu;712498936;Glow Body Combo;2;646.0;0;1;646.0;Gqeberha
+16359;Completed;2025/12/22 20:40;Olwethu;712498936;Pimples and Acne Purifying Facial Cleanser - 200ml;2;646.0;0;1;646.0;Gqeberha
+16355;Completed;2025/12/22 19:43;zama;632398750;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Mpumalanga
+16354;Completed;2025/12/22 15:37;Mbali;828609472;Dark inner thighs & Stretch mark Body Combo;2;608.0;0;1;608.0;Eastgate
+16354;Completed;2025/12/22 15:37;Mbali;828609472;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;608.0;0;1;608.0;Eastgate
+16353;Completed;2025/12/22 10:42;Mpho;832124089;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;4;610.0;0;1;610.0;2190
+16353;Completed;2025/12/22 10:42;Mpho;832124089;Kojic Acid Brightening Soap - 100g;4;610.0;0;1;610.0;2190
+16353;Completed;2025/12/22 10:42;Mpho;832124089;Acne and Oil Control Exfoliating Mask - 75ml;4;610.0;0;1;610.0;2190
+16353;Completed;2025/12/22 10:42;Mpho;832124089;Face Moisturizer with Hyaluronic Acid  - 80ml;4;610.0;0;1;610.0;2190
+16351;Completed;2025/12/22 04:53;Tsholo;636845375;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;440.0;130;2;860.0;Sandton
+16351;Completed;2025/12/22 04:53;Tsholo;636845375;Kojic Acid Brightening Soap - 100g;2;440.0;130;2;860.0;Sandton
+16350;Completed;2025/12/22 04:04;Meleni;719410449;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Engcobo
+16349;Completed;2025/12/21 23:11;Nkateko;836679345;Pimples and Acne Purifying Facial Cleanser - 200ml;2;508.0;60;1;508.0;Giyani
+16349;Completed;2025/12/21 23:11;Nkateko;836679345;Dark inner thighs & Stretch mark Body Combo;2;508.0;60;1;508.0;Giyani
+16347;Completed;2025/12/21 17:07;Kgalalelo;837598084;Dark Spots & Pimples Face Combo;3;810.0;0;1;810.0;Taung
+16347;Completed;2025/12/21 17:07;Kgalalelo;837598084;SPF 50+ Sun Protection - Sunscreen;3;810.0;0;1;810.0;Taung
+16347;Completed;2025/12/21 17:07;Kgalalelo;837598084;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;810.0;0;1;810.0;Taung
+16346;Completed;2025/12/21 16:41;Thokozile;783639670;Skin Brightening Lotion - 250ml;1;700.0;0;1;700.0;Town
+16345;Completed;2025/12/21 16:05;Rotondwa;718743300;Melasma/Chubaba Face Combo;1;537.0;60;1;537.0;Thohoyandou block f
+16344;Completed;2025/12/21 08:14;Celiwe;823010567;Dark inner thighs & Stretch mark Body Combo;2;618.0;130;1;618.0;Johannesburg
+16344;Completed;2025/12/21 08:14;Celiwe;823010567;Vitamin C Brightening & Hydrating Serum;2;618.0;130;1;618.0;Johannesburg
+16340;Completed;2025/12/20 16:31;Tumisang;827766412;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Centurion
+16339;Completed;2025/12/20 13:25;Dimakatso;731402673;Dark inner thighs & Stretch mark Body Combo;2;568.0;130;1;568.0;Rustenburg
+16339;Completed;2025/12/20 13:25;Dimakatso;731402673;Kojic Acid Brightening Soap - 100g;2;568.0;130;1;568.0;Rustenburg
+16338;Completed;2025/12/20 12:49;Dimakatso;731402673;Dark inner thighs & Stretch mark Body Combo;3;558.0;0;1;558.0;Rustenburg
+16338;Completed;2025/12/20 12:49;Dimakatso;731402673;Kojic Acid Brightening Soap - 100g;3;558.0;0;1;558.0;Rustenburg
+16338;Completed;2025/12/20 12:49;Dimakatso;731402673;Acne and Oil Control Exfoliating Mask - 75ml;3;558.0;0;1;558.0;Rustenburg
+16336;Completed;2025/12/20 10:20;Regina;827500051;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Phalaborwa
+16335;Completed;2025/12/19 22:29;Phumi;826779510;Dark inner thighs & Stretch mark Body Combo;3;628.0;0;1;628.0;Newlands East
+16335;Completed;2025/12/19 22:29;Phumi;826779510;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;628.0;0;1;628.0;Newlands East
+16335;Completed;2025/12/19 22:29;Phumi;826779510;Face Moisturizer with Hyaluronic Acid  - 80ml;3;628.0;0;1;628.0;Newlands East
+16333;Completed;2025/12/19 20:36;KHOLOFELO SARA;691168509;Kojic Acid Brightening Soap - 100g;2;498.0;60;1;498.0;Cape Town
+16333;Completed;2025/12/19 20:36;KHOLOFELO SARA;691168509;Dark inner thighs & Stretch mark Body Combo;2;498.0;60;1;498.0;Cape Town
+16332;Processing;2025/12/19 18:30;Lostar;724370697;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;Soshanguve
+16332;Processing;2025/12/19 18:30;Lostar;724370697;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;Soshanguve
+16330;Completed;2025/12/19 17:53;evelyn;822972591;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;578.0;130;1;578.0;Carletonville
+16330;Completed;2025/12/19 17:53;evelyn;822972591;Dark inner thighs & Stretch mark Body Combo;2;578.0;130;1;578.0;Carletonville
+16328;Completed;2025/12/19 09:42;Zandile;693201249;Dark inner thighs & Stretch mark Body Combo;3;618.0;0;1;618.0;Springs
+16328;Completed;2025/12/19 09:42;Zandile;693201249;Kojic Acid Brightening Soap - 100g;3;618.0;0;1;618.0;Springs
+16328;Completed;2025/12/19 09:42;Zandile;693201249;Face Moisturizer with Hyaluronic Acid  - 80ml;3;618.0;0;1;618.0;Springs
+16327;Completed;2025/12/19 09:42;Ntombizile;737272524;Dark inner thighs & Stretch mark Body Combo;1;706.0;130;1;706.0;Durban
+16325;Completed;2025/12/19 08:24;Thembisile;729980183;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Johannesburg
+16320;Completed;2025/12/19 06:11;Clara;713707429;Vitamin C Brightening & Hydrating Serum;2;1520.0;0;1;1520.0;Karino estate
+16320;Completed;2025/12/19 06:11;Clara;713707429;Distributors Combo( 12 Moisturising butter);2;1520.0;0;1;1520.0;Karino estate
+16319;Completed;2025/12/18 20:01;Usanda;717787310;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;1;576.0;Lusikisiki
+16317;Completed;2025/12/18 16:37;Asiphe;610546073;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Cape Town
+16316;Completed;2025/12/18 11:18;Nyeleti;783163798;Kojic Acid Brightening Soap - 100g;2;500.0;0;4;1490.0;Westonaria X10
+16316;Completed;2025/12/18 11:18;Nyeleti;783163798;Skin Brightening Lotion - 250ml;2;500.0;0;4;1490.0;Westonaria X10
+16314;Completed;2025/12/18 09:00;Sandra;781581016;Vitamin C Brightening & Hydrating Serum;3;678.0;0;1;678.0;VENTERSDORP
+16314;Completed;2025/12/18 09:00;Sandra;781581016;Dark inner thighs & Stretch mark Body Combo;3;678.0;0;1;678.0;VENTERSDORP
+16314;Completed;2025/12/18 09:00;Sandra;781581016;SPF 50+ Sun Protection - Sunscreen;3;678.0;0;1;678.0;VENTERSDORP
+16310;Completed;2025/12/18 07:27;Mamokati;761568924;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;1;576.0;Vereeniging
+16309;Completed;2025/12/18 06:50;Amanda;697105875;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;290.0;130;1;290.0;Ixopo
+16307;Completed;2025/12/17 20:17;Nosikholise;787811840;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;220.0;60;1;220.0;Stellenbosch
+16306;Completed;2025/12/17 18:43;Khethiwe;674247344;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;4;1196.0;0;1;1196.0;Kimberley
+16306;Completed;2025/12/17 18:43;Khethiwe;674247344;Dark inner thighs & Stretch mark Body Combo;4;1196.0;0;1;1196.0;Kimberley
+16306;Completed;2025/12/17 18:43;Khethiwe;674247344;Kojic Acid Brightening Soap - 100g;4;1196.0;0;1;1196.0;Kimberley
+16306;Completed;2025/12/17 18:43;Khethiwe;674247344;Dark Inner Thighs & Cellulite Body Scrub;4;1196.0;0;1;1196.0;Kimberley
+16304;Completed;2025/12/17 16:26;Unathi;834592417;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;King William’s Town
+16304;Completed;2025/12/17 16:26;Unathi;834592417;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;King William’s Town
+16303;Completed;2025/12/17 16:14;Mapula;764281151;Dark inner thighs & Stretch mark Body Combo;3;986.0;60;1;986.0;Modjadjiskloof
+16303;Completed;2025/12/17 16:14;Mapula;764281151;Dark inner thighs & Stretch mark Body Combo;3;986.0;60;1;986.0;Modjadjiskloof
+16303;Completed;2025/12/17 16:14;Mapula;764281151;Skin Brightening Lotion - 250ml;3;986.0;60;1;986.0;Modjadjiskloof
+16302;Completed;2025/12/17 10:24;Noma;826151515;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Johannesburg
+16301;Completed;2025/12/17 06:56;Neo;824676619;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Vanderbijlpark
+16300;Completed;2025/12/16 22:11;Tlou;723836817;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;638.0;0;2;998.0;Marapyane, Skilpadfontein
+16300;Completed;2025/12/16 22:11;Tlou;723836817;Dark inner thighs & Stretch mark Body Combo;3;638.0;0;2;998.0;Marapyane, Skilpadfontein
+16300;Completed;2025/12/16 22:11;Tlou;723836817;SPF 50+ Sun Protection - Sunscreen;3;638.0;0;2;998.0;Marapyane, Skilpadfontein
+16297;Completed;2025/12/16 15:12;Zandile;820682950;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;610.0;130;1;610.0;Ulundi
+16297;Completed;2025/12/16 15:12;Zandile;820682950;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;610.0;130;1;610.0;Ulundi
+16296;Completed;2025/12/16 14:23;Nomfundo;825815892;Dark inner thighs & Stretch mark Body Combo;3;608.0;0;3;1668.0;Kloof
+16296;Completed;2025/12/16 14:23;Nomfundo;825815892;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;608.0;0;3;1668.0;Kloof
+16296;Completed;2025/12/16 14:23;Nomfundo;825815892;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;608.0;0;3;1668.0;Kloof
+16294;Completed;2025/12/16 09:56;Ntokozo;738865832;Dark inner thighs & Stretch mark Body Combo;3;598.0;0;1;598.0;Nongoma
+16294;Completed;2025/12/16 09:56;Ntokozo;738865832;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;598.0;0;1;598.0;Nongoma
+16294;Completed;2025/12/16 09:56;Ntokozo;738865832;Kojic Acid Brightening Soap - 100g;3;598.0;0;1;598.0;Nongoma
+16292;Completed;2025/12/16 07:26;Thuliswa;671925978;Dark Inner Thighs & Cellulite Body Scrub;2;380.0;60;1;380.0;Middelburg
+16292;Completed;2025/12/16 07:26;Thuliswa;671925978;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;380.0;60;1;380.0;Middelburg
+16291;Completed;2025/12/16 04:21;Sthembile;764601473;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;620.0;0;2;1218.0;Standerton
+16291;Completed;2025/12/16 04:21;Sthembile;764601473;Kojic Acid Brightening Soap - 100g;2;620.0;0;2;1218.0;Standerton
+16290;Completed;2025/12/15 22:32;Nompiliso;833965477;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;1;576.0;Pretoria
+16289;Processing;2025/12/15 22:21;Elethu;781678708;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;508.0;60;1;508.0;Kokstad
+16289;Processing;2025/12/15 22:21;Elethu;781678708;Dark inner thighs & Stretch mark Body Combo;2;508.0;60;1;508.0;Kokstad
+16287;Completed;2025/12/15 16:28;Noluthando;792649001;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;Nelspruit
+16287;Completed;2025/12/15 16:28;Noluthando;792649001;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;Nelspruit
+16286;Completed;2025/12/15 15:27;Akhona;605702641;Dark inner thighs & Stretch mark Body Combo;1;418.0;130;1;418.0;Mthatha
+16285;Completed;2025/12/15 14:58;Zandile;677583211;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;220.0;60;1;220.0;Port Elizabeth
+16283;Completed;2025/12/15 13:03;Odwa;788288479;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Phakamisa Township
+16282;Completed;2025/12/15 11:23;Fortunate;720356724;Skin Brightening Lotion - 250ml;3;790.0;130;2;1436.0;Barberton
+16282;Completed;2025/12/15 11:23;Fortunate;720356724;Dark Inner Thighs & Cellulite Body Scrub;3;790.0;130;2;1436.0;Barberton
+16282;Completed;2025/12/15 11:23;Fortunate;720356724;Kojic Acid Brightening Soap - 100g;3;790.0;130;2;1436.0;Barberton
+16281;Completed;2025/12/15 10:03;Tembela;832499141;Kojic Acid Brightening Soap - 100g;3;598.0;0;1;598.0;Kwa Nobuhle. Uitenhage.
+16281;Completed;2025/12/15 10:03;Tembela;832499141;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;598.0;0;1;598.0;Kwa Nobuhle. Uitenhage.
+16281;Completed;2025/12/15 10:03;Tembela;832499141;Dark inner thighs & Stretch mark Body Combo;3;598.0;0;1;598.0;Kwa Nobuhle. Uitenhage.
+16280;Completed;2025/12/14 19:21;Maphuti;727447382;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;450.0;130;2;838.0;Polokwane
+16279;Completed;2025/12/14 17:58;Linda Machita;796701597;Kojic Acid Brightening Soap - 100g;3;598.0;0;1;598.0;East London
+16279;Completed;2025/12/14 17:58;Linda Machita;796701597;Dark inner thighs & Stretch mark Body Combo;3;598.0;0;1;598.0;East London
+16279;Completed;2025/12/14 17:58;Linda Machita;796701597;Dark Inner Thighs & Cellulite Body Scrub;3;598.0;0;1;598.0;East London
+16278;Completed;2025/12/14 16:03;Crichelle;623442949;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;380.0;60;1;380.0;Soweto
+16278;Completed;2025/12/14 16:03;Crichelle;623442949;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;380.0;60;1;380.0;Soweto
+16277;Completed;2025/12/14 09:16;Liyema;719556744;Dark inner thighs & Stretch mark Body Combo;1;418.0;130;1;418.0;East London
+16275;Completed;2025/12/14 08:19;Ayanda;837923347;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;1;576.0;Germiston
+16274;Completed;2025/12/14 00:14;Sabelo;732090783;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;290.0;130;1;290.0;East London
+16272;Completed;2025/12/13 16:17;Masego;767262617;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Rustenburg
+16271;Completed;2025/12/13 09:00;Zanokuhle;824338898;Dark Spots & Pimples Face Combo;2;610.0;0;1;610.0;Kriel
+16271;Completed;2025/12/13 09:00;Zanokuhle;824338898;Kojic Acid Brightening Soap - 100g;2;610.0;0;1;610.0;Kriel
+16270;Completed;2025/12/13 07:27;Nindiphiwe;725951511;Dark inner thighs & Stretch mark Body Combo;1;418.0;130;1;418.0;PRETORiA
+16267;Completed;2025/12/12 15:22;Lihle;783883327;Dark Inner Thighs & Cellulite Body Scrub;3;510.0;0;1;510.0;Lusikisiki
+16267;Completed;2025/12/12 15:22;Lihle;783883327;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;510.0;0;1;510.0;Lusikisiki
+16267;Completed;2025/12/12 15:22;Lihle;783883327;SPF 50+ Sun Protection - Sunscreen;3;510.0;0;1;510.0;Lusikisiki
+16265;Completed;2025/12/12 15:18;Nonhlakanipho;760565233;Dark inner thighs & Stretch mark Body Combo;3;738.0;130;1;738.0;Richmond
+16265;Completed;2025/12/12 15:18;Nonhlakanipho;760565233;Dark Inner Thighs & Cellulite Body Scrub;3;738.0;130;1;738.0;Richmond
+16265;Completed;2025/12/12 15:18;Nonhlakanipho;760565233;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;738.0;130;1;738.0;Richmond
+16264;Completed;2025/12/12 12:36;Brenda;711715863;Dark inner thighs & Stretch mark Body Combo;1;1152.0;0;1;1152.0;Hartbeespoort
+16263;Completed;2025/12/12 06:34;Millicent;658352614;Vitamin C Brightening & Hydrating Serum;3;948.0;0;1;948.0;Benoni
+16263;Completed;2025/12/12 06:34;Millicent;658352614;Dark Spots & Pimples Face Combo;3;948.0;0;1;948.0;Benoni
+16263;Completed;2025/12/12 06:34;Millicent;658352614;Dark inner thighs & Stretch mark Body Combo;3;948.0;0;1;948.0;Benoni
+16262;Completed;2025/12/11 22:23;Nozipho;848843535;Dark Inner Thighs & Cellulite Body Scrub;2;380.0;60;1;380.0;Gingindlovu
+16262;Completed;2025/12/11 22:23;Nozipho;848843535;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;380.0;60;1;380.0;Gingindlovu
+16261;Completed;2025/12/11 22:02;Kgau;835088095;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;540.0;60;2;1050.0;Mokopane
+16259;Completed;2025/12/11 14:17;Ntombifuthi;739048125;SPF 50+ Sun Protection - Sunscreen;1;250.0;60;1;250.0;Ulundi
+16256;Completed;2025/12/11 09:24;Nobulali;609439530;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;3;1342.0;King William’s Town
+16255;Completed;2025/12/11 08:52;Siphokazi;789031614;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;770.0;130;1;770.0;Khayelitsha
+16255;Completed;2025/12/11 08:52;Siphokazi;789031614;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;770.0;130;1;770.0;Khayelitsha
+16255;Completed;2025/12/11 08:52;Siphokazi;789031614;Dark Inner Thighs & Cellulite Body Scrub;3;770.0;130;1;770.0;Khayelitsha
+16254;Completed;2025/12/11 05:56;Xoliswa;672236789;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Gqeberha
+16251;Completed;2025/12/10 16:41;Lebo;732450598;Vitamin C Brightening & Hydrating Serum;1;260.0;60;2;1115.0;PRETORIA
+16249;Completed;2025/12/10 16:34;Lebohang;742970890;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;1;576.0;Virginia
+16247;Completed;2025/12/10 14:10;Prudence;714717600;Dark inner thighs & Stretch mark Body Combo;3;778.0;130;1;778.0;Paarl
+16247;Completed;2025/12/10 14:10;Prudence;714717600;Vitamin C Brightening & Hydrating Serum;3;778.0;130;1;778.0;Paarl
+16247;Completed;2025/12/10 14:10;Prudence;714717600;Pimples and Acne Purifying Facial Cleanser - 200ml;3;778.0;130;1;778.0;Paarl
+16244;Completed;2025/12/10 08:13;Thato;769592897;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Kempton Park
+16243;Completed;2025/12/10 05:09;Sthembile;764601473;Pimples and Acne Purifying Facial Cleanser - 200ml;3;598.0;0;2;1218.0;Standerton
+16243;Completed;2025/12/10 05:09;Sthembile;764601473;Kojic Acid Brightening Soap - 100g;3;598.0;0;2;1218.0;Standerton
+16243;Completed;2025/12/10 05:09;Sthembile;764601473;Dark inner thighs & Stretch mark Body Combo;3;598.0;0;2;1218.0;Standerton
+16242;Completed;2025/12/09 09:05;Lindiwe;724452463;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;450.0;130;19;6622.0;Witbank
+16241;Completed;2025/12/09 08:14;Phumla;780084742;Dark inner thighs & Stretch mark Body Combo;1;418.0;130;1;418.0;Cape Town
+16240;Completed;2025/12/09 08:01;Ayanda;761553758;Dark inner thighs & Stretch mark Body Combo;1;418.0;130;1;418.0;Edenvale
+16238;Completed;2025/12/09 04:08;Diketso;632469265;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Pretoria
+16237;Completed;2025/12/08 18:36;Phumzile;813708169;Dark inner thighs & Stretch mark Body Combo;3;638.0;0;2;1026.0;Durban
+16237;Completed;2025/12/08 18:36;Phumzile;813708169;Kojic Acid Brightening Soap - 100g;3;638.0;0;2;1026.0;Durban
+16237;Completed;2025/12/08 18:36;Phumzile;813708169;Vitamin C Brightening & Hydrating Serum;3;638.0;0;2;1026.0;Durban
+16236;Completed;2025/12/08 17:21;Mosa;714764425;Dark Spots & Pimples Face Combo;2;580.0;0;1;580.0;Kathu
+16236;Completed;2025/12/08 17:21;Mosa;714764425;Acne and Oil Control Exfoliating Mask - 75ml;2;580.0;0;1;580.0;Kathu
+16235;Completed;2025/12/08 16:44;Thobeka;813491839;Dark inner thighs & Stretch mark Body Combo;1;418.0;130;1;418.0;Ladysmith
+16234;Completed;2025/12/08 15:29;Refiloe;662565912;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;290.0;130;2;550.0;Sandton
+16233;Completed;2025/12/08 08:48;Lisa;818868506;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Durban
+16232;Completed;2025/12/08 08:19;Lethabo;645298649;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;220.0;60;1;220.0;Mmabatho
+16231;Completed;2025/12/08 08:16;Yvette;786283776;Dark Spots & Pimples Face Combo;2;748.0;0;1;748.0;Cape Town
+16231;Completed;2025/12/08 08:16;Yvette;786283776;Dark inner thighs & Stretch mark Body Combo;2;748.0;0;1;748.0;Cape Town
+16230;Completed;2025/12/08 07:38;Bokang;718635168;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;220.0;60;1;220.0;Alberton
+16229;Completed;2025/12/08 07:18;Rachel;724029831;Dark inner thighs & Stretch mark Body Combo;2;508.0;60;1;508.0;Bloemfontein
+16229;Completed;2025/12/08 07:18;Rachel;724029831;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;508.0;60;1;508.0;Bloemfontein
+16227;Completed;2025/12/07 17:20;Lonwabo;784290218;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;2;996.0;East London
+16226;Completed;2025/12/07 15:25;Thembi;722285225;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;500.0;0;1;500.0;Trichardt
+16226;Completed;2025/12/07 15:25;Thembi;722285225;Kojic Acid Brightening Soap - 100g;3;500.0;0;1;500.0;Trichardt
+16226;Completed;2025/12/07 15:25;Thembi;722285225;SPF 50+ Sun Protection - Sunscreen;3;500.0;0;1;500.0;Trichardt
+16225;Processing;2025/12/07 12:51;Babalwa;734934387;Vitamin C Brightening & Hydrating Serum;3;510.0;0;2;1330.0;East London
+16225;Processing;2025/12/07 12:51;Babalwa;734934387;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;510.0;0;2;1330.0;East London
+16225;Processing;2025/12/07 12:51;Babalwa;734934387;Kojic Acid Brightening Soap - 100g;3;510.0;0;2;1330.0;East London
+16222;Completed;2025/12/07 07:50;Sinxi;781043277;SPF 50+ Sun Protection - Sunscreen;3;1015.0;60;2;2240.0;Ntabankulu
+16222;Completed;2025/12/07 07:50;Sinxi;781043277;Melasma/Chubaba Face Combo;3;1015.0;60;2;2240.0;Ntabankulu
+16222;Completed;2025/12/07 07:50;Sinxi;781043277;Dark inner thighs & Stretch mark Body Combo;3;1015.0;60;2;2240.0;Ntabankulu
+16218;Completed;2025/12/07 05:59;khanyisa;722329640;Dark inner thighs & Stretch mark Body Combo;3;898.0;0;2;1398.0;Pretoria
+16218;Completed;2025/12/07 05:59;khanyisa;722329640;Kojic Acid Brightening Soap - 100g;3;898.0;0;2;1398.0;Pretoria
+16218;Completed;2025/12/07 05:59;khanyisa;722329640;Dark Inner Thighs & Cellulite Body Scrub;3;898.0;0;2;1398.0;Pretoria
+16216;Processing;2025/12/07 04:58;Nolubabalo;785995791;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;6001
+16215;Completed;2025/12/06 21:11;Elelwani charmaine;726380696;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;520.0;0;1;520.0;Bloemfontein
+16215;Completed;2025/12/06 21:11;Elelwani charmaine;726380696;Vitamin C Brightening & Hydrating Serum;2;520.0;0;1;520.0;Bloemfontein
+16214;Completed;2025/12/06 20:49;Yvonne;828876436;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;450.0;130;1;450.0;Pretoria
+16214;Completed;2025/12/06 20:49;Yvonne;828876436;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;450.0;130;1;450.0;Pretoria
+16213;Completed;2025/12/06 14:19;Vongani;834909394;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Giyani
+16212;Completed;2025/12/06 13:48;Phophi;724943366;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;220.0;60;1;220.0;Thohoyandou
+16210;Completed;2025/12/06 05:34;Nokulunga;720659620;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Newcastle
+16203;Completed;2025/12/05 16:56;Delight;713658087;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;220.0;60;1;220.0;Giyani
+16202;Completed;2025/12/05 16:46;Nomhle;813591202;Dark inner thighs & Stretch mark Body Combo;2;538.0;60;1;538.0;Springs
+16202;Completed;2025/12/05 16:46;Nomhle;813591202;SPF 50+ Sun Protection - Sunscreen;2;538.0;60;1;538.0;Springs
+16167;Completed;2025/12/05 07:24;Thembakazi;716252239;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;450.0;130;5;1706.0;eXobho
+16164;Completed;2025/12/05 06:49;Dineo;677251177;Melasma/Chubaba Face Combo;3;787.0;0;9;5905.0;Kimberley
+16164;Completed;2025/12/05 06:49;Dineo;677251177;Kojic Acid Brightening Soap - 100g;3;787.0;0;9;5905.0;Kimberley
+16164;Completed;2025/12/05 06:49;Dineo;677251177;Pimples and Acne Purifying Facial Cleanser - 200ml;3;787.0;0;9;5905.0;Kimberley
+16119;Completed;2025/12/04 21:11;Noxolo;840312267;Kojic Acid Brightening Soap - 100g;3;658.0;60;1;658.0;Cape town
+16119;Completed;2025/12/04 21:11;Noxolo;840312267;Dark inner thighs & Stretch mark Body Combo;3;658.0;60;1;658.0;Cape town
+16119;Completed;2025/12/04 21:11;Noxolo;840312267;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;658.0;60;1;658.0;Cape town
+16118;Processing;2025/12/04 17:25;Nomcebo;736089718;Kojic Acid Brightening Soap - 100g;3;500.0;0;1;500.0;Nelspruit
+16118;Processing;2025/12/04 17:25;Nomcebo;736089718;SPF 50+ Sun Protection - Sunscreen;3;500.0;0;1;500.0;Nelspruit
+16118;Processing;2025/12/04 17:25;Nomcebo;736089718;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;500.0;0;1;500.0;Nelspruit
+16109;Completed;2025/12/04 12:27;Nilza;6405702211;Dark inner thighs & Stretch mark Body Combo;2;578.0;130;1;578.0;Babelegi
+16109;Completed;2025/12/04 12:27;Nilza;6405702211;Pimples and Acne Purifying Facial Cleanser - 200ml;2;578.0;130;1;578.0;Babelegi
+16108;Completed;2025/12/04 11:08;Nasiphi;835982885;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Cape Town
+16107;Completed;2025/12/04 09:35;Phumeza;832397213;Dark Spots & Pimples Face Combo;2;748.0;0;1;748.0;Milnerton
+16107;Completed;2025/12/04 09:35;Phumeza;832397213;Dark inner thighs & Stretch mark Body Combo;2;748.0;0;1;748.0;Milnerton
+16104;Completed;2025/12/04 08:40;Phumla;719317638;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;380.0;60;2;728.0;New Germany
+16099;Completed;2025/12/04 05:11;Mokgadi;662238745;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;1;576.0;Tzaneen
+16096;Completed;2025/12/03 23:14;Lazarus;729971475;Melasma/Chubaba Face Combo;2;937.0;0;3;2571.0;Johannesburg
+16096;Completed;2025/12/03 23:14;Lazarus;729971475;Dark Spots & Pimples Face Combo;2;937.0;0;3;2571.0;Johannesburg
+16094;Completed;2025/12/03 19:28;Tshegofatso;733397570;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;290.0;130;2;838.0;Sandton
+16092;Completed;2025/12/03 13:46;Mpho;658916287;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Randburg
+16091;Completed;2025/12/03 10:42;Felicia;782452041;Dark inner thighs & Stretch mark Body Combo;3;558.0;0;1;558.0;LynnWood
+16091;Completed;2025/12/03 10:42;Felicia;782452041;Kojic Acid Brightening Soap - 100g;3;558.0;0;1;558.0;LynnWood
+16091;Completed;2025/12/03 10:42;Felicia;782452041;Acne and Oil Control Exfoliating Mask - 75ml;3;558.0;0;1;558.0;LynnWood
+16090;Completed;2025/12/03 10:21;Zukelwa;783638908;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;220.0;60;1;220.0;Cape Town
+16089;Completed;2025/12/03 09:36;Lerato;827648574;Kojic Acid Brightening Soap - 100g;2;610.0;0;1;610.0;JOHANNESBURG
+16089;Completed;2025/12/03 09:36;Lerato;827648574;Dark Spots & Pimples Face Combo;2;610.0;0;1;610.0;JOHANNESBURG
+16088;Completed;2025/12/03 08:29;Rabia;684683840;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;380.0;60;1;380.0;Pretoria
+16075;Completed;2025/12/02 08:04;Y;786900910;Dark inner thighs & Stretch mark Body Combo;2;618.0;130;1;618.0;Ceres
+16075;Completed;2025/12/02 08:04;Y;786900910;Vitamin C Brightening & Hydrating Serum;2;618.0;130;1;618.0;Ceres
+16072;Completed;2025/12/01 17:40;Lucia;632416626;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;520.0;0;1;520.0;Jeffreys bay
+16072;Completed;2025/12/01 17:40;Lucia;632416626;Dark Inner Thighs & Cellulite Body Scrub;3;520.0;0;1;520.0;Jeffreys bay
+16072;Completed;2025/12/01 17:40;Lucia;632416626;Vitamin C Brightening & Hydrating Serum;3;520.0;0;1;520.0;Jeffreys bay
+16070;Completed;2025/12/01 08:14;Nomfundo;618208013;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Umlazi
+16065;Processing;2025/11/30 13:52;Carol;764379144;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Johannesburg
+16064;Completed;2025/11/30 10:26;Itu;765821878;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;220.0;60;1;220.0;Fort Beaufort
+16063;Completed;2025/11/30 09:19;Katlego;791818691;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Rustenburg
+16062;Completed;2025/11/30 09:16;Sixolile;605286113;Glow Body Combo;2;636.0;0;1;636.0;Cape Town
+16062;Completed;2025/11/30 09:16;Sixolile;605286113;Kojic Acid Brightening Soap - 100g;2;636.0;0;1;636.0;Cape Town
+16059;Processing;2025/11/30 07:39;Zimasa;719087700;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Gqeberha
+16058;Completed;2025/11/30 07:13;Mokoena;760433663;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;608.0;0;1;608.0;Bethal
+16058;Completed;2025/11/30 07:13;Mokoena;760433663;Dark inner thighs & Stretch mark Body Combo;3;608.0;0;1;608.0;Bethal
+16058;Completed;2025/11/30 07:13;Mokoena;760433663;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;608.0;0;1;608.0;Bethal
+16052;Completed;2025/11/29 14:19;Deidre;731571455;Dark Spots & Pimples Face Combo;2;620.0;0;2;1196.0;Dysselsdorp
+16052;Completed;2025/11/29 14:19;Deidre;731571455;Dark Inner Thighs & Cellulite Body Scrub;2;620.0;0;2;1196.0;Dysselsdorp
+16051;Completed;2025/11/29 12:22;Nombuso;718812925;Glow Body Combo;1;1032.0;60;1;1032.0;Pretoria
+16050;Completed;2025/11/29 10:09;Busisiwe;639917481;Dark Spots & Pimples Face Combo;2;946.0;0;1;946.0;Mpumalanga township Hammersdale
+16050;Completed;2025/11/29 10:09;Busisiwe;639917481;Glow Body Combo;2;946.0;0;1;946.0;Mpumalanga township Hammersdale
+16049;Completed;2025/11/29 08:16;Sbongile;731710604;Dark inner thighs & Stretch mark Body Combo;2;508.0;0;1;508.0;Pretoria
+16049;Completed;2025/11/29 08:16;Sbongile;731710604;Luxury Glow Powder For Skin Boost - 100g;2;508.0;0;1;508.0;Pretoria
+16048;Completed;2025/11/29 06:11;Refiloe;606010963;Glow Body Combo;2;636.0;0;1;636.0;Vanderbijlpark
+16048;Completed;2025/11/29 06:11;Refiloe;606010963;Kojic Acid Brightening Soap - 100g;2;636.0;0;1;636.0;Vanderbijlpark
+16045;Completed;2025/11/29 05:00;Lucia;785524634;Dark Inner Thighs & Cellulite Body Scrub;1;290.0;130;1;290.0;Pretoria
+16044;Completed;2025/11/29 00:17;Maureen;736478952;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;2;971.0;Benoni
+16044;Completed;2025/11/29 00:17;Maureen;736478952;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;2;971.0;Benoni
+16043;Completed;2025/11/28 23:36;Linah;734307266;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;2;696.0;Polokwane
+16042;Completed;2025/11/28 23:34;Linah;734307266;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;2;696.0;Polokwane
+16037;Completed;2025/11/28 17:51;Sebolelo;738737361;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;2;696.0;Pretoria North
+16036;Completed;2025/11/28 17:43;Nompumelelo;626805463;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Thabazimbi
+16035;Completed;2025/11/28 13:46;Lerato;733349987;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Cape Town
+16034;Completed;2025/11/28 13:22;Amanda;815871823;Dark inner thighs & Stretch mark Body Combo;2;636.0;60;1;636.0;Cape Town
+16034;Completed;2025/11/28 13:22;Amanda;815871823;Dark inner thighs & Stretch mark Body Combo;2;636.0;60;1;636.0;Cape Town
+16033;Completed;2025/11/28 08:32;Yolisa;732657644;Kojic Acid Brightening Soap - 100g;4;996.0;0;1;996.0;Randfontein
+16033;Completed;2025/11/28 08:32;Yolisa;732657644;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;4;996.0;0;1;996.0;Randfontein
+16033;Completed;2025/11/28 08:32;Yolisa;732657644;Glow Body Combo;4;996.0;0;1;996.0;Randfontein
+16033;Completed;2025/11/28 08:32;Yolisa;732657644;Vitamin C Brightening & Hydrating Serum;4;996.0;0;1;996.0;Randfontein
+16032;Completed;2025/11/28 08:21;Sindiswa;674063621;Dark inner thighs & Stretch mark Body Combo;4;1174.0;0;1;1174.0;Umhlanga rocks
+16032;Completed;2025/11/28 08:21;Sindiswa;674063621;Dark inner thighs & Stretch mark Body Combo;4;1174.0;0;1;1174.0;Umhlanga rocks
+16032;Completed;2025/11/28 08:21;Sindiswa;674063621;Kojic Acid Brightening Soap - 100g;4;1174.0;0;1;1174.0;Umhlanga rocks
+16032;Completed;2025/11/28 08:21;Sindiswa;674063621;Dark Inner Thighs & Cellulite Body Scrub;4;1174.0;0;1;1174.0;Umhlanga rocks
+16031;Completed;2025/11/28 05:38;Lupho;728385624;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;380.0;60;1;380.0;Johannesburg
+16031;Completed;2025/11/28 05:38;Lupho;728385624;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;380.0;60;1;380.0;Johannesburg
+16029;Completed;2025/11/28 03:43;Olwethu;837721723;Dark inner thighs & Stretch mark Body Combo;1;418.0;130;2;806.0;Port Elizabeth
+16028;Completed;2025/11/27 21:00;Carol;792419475;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Ormonde view estates
+16027;Completed;2025/11/27 18:58;Sebenzile;670657873;Kojic Acid Brightening Soap - 100g;4;956.0;0;1;956.0;Orlando East, Soweto
+16027;Completed;2025/11/27 18:58;Sebenzile;670657873;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;4;956.0;0;1;956.0;Orlando East, Soweto
+16027;Completed;2025/11/27 18:58;Sebenzile;670657873;Glow Body Combo;4;956.0;0;1;956.0;Orlando East, Soweto
+16027;Completed;2025/11/27 18:58;Sebenzile;670657873;Dark Inner Thighs & Cellulite Body Scrub;4;956.0;0;1;956.0;Orlando East, Soweto
+16026;Completed;2025/11/27 13:09;Lifa;725848146;SPF 50+ Sun Protection - Sunscreen;5;1097.0;0;13;10053.0;Witbank
+16026;Completed;2025/11/27 13:09;Lifa;725848146;Melasma/Chubaba Face Combo;5;1097.0;0;13;10053.0;Witbank
+16026;Completed;2025/11/27 13:09;Lifa;725848146;Acne and Oil Control Exfoliating Mask - 75ml;5;1097.0;0;13;10053.0;Witbank
+16026;Completed;2025/11/27 13:09;Lifa;725848146;Kojic Acid Brightening Soap - 100g;5;1097.0;0;13;10053.0;Witbank
+16026;Completed;2025/11/27 13:09;Lifa;725848146;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;5;1097.0;0;13;10053.0;Witbank
+16025;Completed;2025/11/27 09:40;Meagan;840573291;Melasma/Chubaba Face Combo;2;597.0;0;1;597.0;Port Elizabeth
+16025;Completed;2025/11/27 09:40;Meagan;840573291;Acne and Oil Control Exfoliating Mask - 75ml;2;597.0;0;1;597.0;Port Elizabeth
+16023;Completed;2025/11/27 03:15;Naledi;729344214;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;380.0;60;3;1336.0;Honeydew
+16019;Completed;2025/11/26 18:25;Dima;780267987;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Reitz
+16018;Completed;2025/11/26 09:16;Sinazo;837283577;Dark inner thighs & Stretch mark Body Combo;3;648.0;0;3;2348.0;Centurion
+16018;Completed;2025/11/26 09:16;Sinazo;837283577;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;648.0;0;3;2348.0;Centurion
+16018;Completed;2025/11/26 09:16;Sinazo;837283577;Vitamin C Brightening & Hydrating Serum;3;648.0;0;3;2348.0;Centurion
+16017;Completed;2025/11/26 08:39;Phumla;780084742;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;290.0;130;1;290.0;Cape Town
+16016;Completed;2025/11/26 07:02;Khanyisa;781109907;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;Jet park, noksburg
+16016;Completed;2025/11/26 07:02;Khanyisa;781109907;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;Jet park, noksburg
+16010;Completed;2025/11/26 00:01;Shado;843009737;Glow & Detox Twin Combo;2;630.0;0;4;2592.0;Krugersdorp
+16010;Completed;2025/11/26 00:01;Shado;843009737;Dark inner thighs & Stretch mark Body Combo;2;630.0;0;4;2592.0;Krugersdorp
+16009;Completed;2025/11/25 22:13;Victoria;835040912;Glow Body Combo;1;546.0;60;1;546.0;Randburg
+16008;Completed;2025/11/25 20:24;Stella;636956953;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;380.0;60;1;380.0;Alberton
+16008;Completed;2025/11/25 20:24;Stella;636956953;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;380.0;60;1;380.0;Alberton
+16007;Completed;2025/11/25 20:04;Nothando;815641052;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;White River
+16006;Processing;2025/11/25 19:56;Samkele Thandokazi;767163748;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;2;568.0;MIDRAND
+16004;Processing;2025/11/25 19:26;Mpendulo;769723434;Dark inner thighs & Stretch mark Body Combo;3;648.0;0;1;648.0;Pretoria East
+16004;Processing;2025/11/25 19:26;Mpendulo;769723434;Vitamin C Brightening & Hydrating Serum;3;648.0;0;1;648.0;Pretoria East
+16004;Processing;2025/11/25 19:26;Mpendulo;769723434;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;648.0;0;1;648.0;Pretoria East
+16003;Completed;2025/11/25 18:33;Pumza;797990275;Dark inner thighs & Stretch mark Body Combo;1;706.0;130;1;706.0;Lephalale
+16002;Processing;2025/11/25 14:32;Kelebogile;724539410;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;290.0;130;2;1036.0;Rocklands Bloemfontein
+16001;Completed;2025/11/25 13:13;Sesethu;717027124;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Cape Town
+16000;Completed;2025/11/25 11:23;Zwanile;727337609;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;380.0;60;1;380.0;Ladysmith
+15998;Completed;2025/11/25 07:23;Asanda;730973544;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;2;924.0;Cape Town
+15997;Completed;2025/11/25 06:32;Asanda;730973544;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;2;924.0;Cape Town
+15997;Completed;2025/11/25 06:32;Asanda;730973544;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;2;924.0;Cape Town
+15996;Completed;2025/11/25 06:31;Zanele;825614533;Dark Spots & Pimples Face Combo;4;1437.0;0;8;8057.0;Wattville, Benoni
+15996;Completed;2025/11/25 06:31;Zanele;825614533;Melasma/Chubaba Face Combo;4;1437.0;0;8;8057.0;Wattville, Benoni
+15996;Completed;2025/11/25 06:31;Zanele;825614533;Kojic Acid Brightening Soap - 100g;4;1437.0;0;8;8057.0;Wattville, Benoni
+15996;Completed;2025/11/25 06:31;Zanele;825614533;Skin Brightening Lotion - 250ml;4;1437.0;0;8;8057.0;Wattville, Benoni
+15995;Completed;2025/11/25 05:37;Babongile;695467487;Dark inner thighs & Stretch mark Body Combo;1;418.0;130;1;418.0;Johannesburg south
+15993;Completed;2025/11/25 04:14;Nomali;793321541;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Waterval boven
+15982;Completed;2025/11/24 20:46;Nelly;828510017;Dark inner thighs & Stretch mark Body Combo;1;418.0;130;1;418.0;Wierda Valley
+15981;Completed;2025/11/24 20:43;Nokuza;717525412;Dark inner thighs & Stretch mark Body Combo;3;598.0;0;1;598.0;Dutywa
+15981;Completed;2025/11/24 20:43;Nokuza;717525412;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;598.0;0;1;598.0;Dutywa
+15981;Completed;2025/11/24 20:43;Nokuza;717525412;Kojic Acid Brightening Soap - 100g;3;598.0;0;1;598.0;Dutywa
+15980;Completed;2025/11/24 19:57;Nosintu;725979060;Skin Brightening Lotion - 250ml;3;660.0;0;1;660.0;Mount Frere
+15980;Completed;2025/11/24 19:57;Nosintu;725979060;Kojic Acid Brightening Soap - 100g;3;660.0;0;1;660.0;Mount Frere
+15980;Completed;2025/11/24 19:57;Nosintu;725979060;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;660.0;0;1;660.0;Mount Frere
+15979;Completed;2025/11/24 14:28;Nontuthuzelo;736299403;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;520.0;0;10;7770.0;Mthatha
+15979;Completed;2025/11/24 14:28;Nontuthuzelo;736299403;Vitamin C Brightening & Hydrating Serum;2;520.0;0;10;7770.0;Mthatha
+15978;Completed;2025/11/24 13:25;Ladyfair;713014772;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;220.0;60;1;220.0;Scottburgh, Durban
+15977;Completed;2025/11/24 12:47;Langelihle;785022608;Kojic Acid Brightening Soap - 100g;2;636.0;0;5;2830.0;1754
+15977;Completed;2025/11/24 12:47;Langelihle;785022608;Glow Body Combo;2;636.0;0;5;2830.0;1754
+15974;Completed;2025/11/24 07:27;Nomhle;832949472;Dark inner thighs & Stretch mark Body Combo;1;636.0;60;1;636.0;Hibberdene
+15973;Completed;2025/11/24 05:57;Sethabile;810827084;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Pongola
+15972;Completed;2025/11/24 05:47;Bongisipho;786512876;SPF 50+ Sun Protection - Sunscreen;3;570.0;0;2;1110.0;Cape Town
+15972;Completed;2025/11/24 05:47;Bongisipho;786512876;Face Moisturizer with Hyaluronic Acid  - 80ml;3;570.0;0;2;1110.0;Cape Town
+15972;Completed;2025/11/24 05:47;Bongisipho;786512876;Vitamin C Brightening & Hydrating Serum;3;570.0;0;2;1110.0;Cape Town
+15948;Completed;2025/11/23 17:38;Lesego;837410523;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;Mmabatho
+15948;Completed;2025/11/23 17:38;Lesego;837410523;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;Mmabatho
+15947;Completed;2025/11/23 08:22;Tsholofelo;728078209;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;380.0;60;1;380.0;Ermelo/ Breyten
+15947;Completed;2025/11/23 08:22;Tsholofelo;728078209;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;380.0;60;1;380.0;Ermelo/ Breyten
+15878;Completed;2025/11/22 20:21;Lindiwe;724452463;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;380.0;60;19;6622.0;Witbank
+15877;Completed;2025/11/22 19:55;Lehlogonolo;710730536;Dark inner thighs & Stretch mark Body Combo;3;568.0;0;1;568.0;Vosloorus
+15877;Completed;2025/11/22 19:55;Lehlogonolo;710730536;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;568.0;0;1;568.0;Vosloorus
+15877;Completed;2025/11/22 19:55;Lehlogonolo;710730536;Acne and Oil Control Exfoliating Mask - 75ml;3;568.0;0;1;568.0;Vosloorus
+15876;Completed;2025/11/22 18:34;Amanda;735078318;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Gqeberha
+15875;Completed;2025/11/22 16:52;Msongelo;713717287;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;508.0;60;1;508.0;East london
+15875;Completed;2025/11/22 16:52;Msongelo;713717287;Dark inner thighs & Stretch mark Body Combo;2;508.0;60;1;508.0;East london
+15874;Completed;2025/11/22 12:51;Gugu;838614001;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;1;576.0;Randburg
+15867;Completed;2025/11/22 03:22;Dieketseng;659917860;Dark inner thighs & Stretch mark Body Combo;3;598.0;0;1;598.0;Phuthaditjhaba
+15867;Completed;2025/11/22 03:22;Dieketseng;659917860;Kojic Acid Brightening Soap - 100g;3;598.0;0;1;598.0;Phuthaditjhaba
+15867;Completed;2025/11/22 03:22;Dieketseng;659917860;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;598.0;0;1;598.0;Phuthaditjhaba
+15806;Processing;2025/11/21 22:25;Lunga;614767142;Dark Spots & Pimples Face Combo;2;748.0;0;1;748.0;Sekhukhune
+15806;Processing;2025/11/21 22:25;Lunga;614767142;Dark inner thighs & Stretch mark Body Combo;2;748.0;0;1;748.0;Sekhukhune
+15805;Completed;2025/11/21 18:55;Sithembile;743637148;Vitamin C Brightening & Hydrating Serum;3;510.0;0;3;1588.0;Pampierstad
+15805;Completed;2025/11/21 18:55;Sithembile;743637148;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;510.0;0;3;1588.0;Pampierstad
+15805;Completed;2025/11/21 18:55;Sithembile;743637148;Kojic Acid Brightening Soap - 100g;3;510.0;0;3;1588.0;Pampierstad
+15804;Completed;2025/11/21 17:42;Neliswa;845127913;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;Tongaat
+15804;Completed;2025/11/21 17:42;Neliswa;845127913;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;Tongaat
+15715;Completed;2025/11/21 12:38;Tebatso;631598190;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Kempton Park
+15704;Completed;2025/11/21 07:01;Hlengiwe;838923305;Brightening Face & Body Combo;1;985.0;130;1;985.0;Inchanga
+15703;Completed;2025/11/21 03:44;Lihle;712955808;Dark Inner Thighs & Cellulite Body Scrub;1;220.0;60;2;480.0;EMPANGENI
+15680;Completed;2025/11/20 20:25;Kele;834631323;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Johannesburg
+15679;Completed;2025/11/20 19:56;Nothando;727127260;Glow Body Combo;2;646.0;0;1;646.0;Touwsriver
+15679;Completed;2025/11/20 19:56;Nothando;727127260;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;646.0;0;1;646.0;Touwsriver
+15678;Completed;2025/11/20 17:44;Zikhona;837648357;Luxury Glow Powder For Skin Boost - 100g;2;600.0;0;6;3628.0;Rondebosch, Cape Town
+15678;Completed;2025/11/20 17:44;Zikhona;837648357;Dark Inner Thighs & Cellulite Body Scrub;2;600.0;0;6;3628.0;Rondebosch, Cape Town
+15674;Completed;2025/11/20 12:38;NOLUFEFE;677293611;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;640.0;0;2;1286.0;Oslo Beach
+15674;Completed;2025/11/20 12:38;NOLUFEFE;677293611;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;640.0;0;2;1286.0;Oslo Beach
+15673;Completed;2025/11/20 09:49;Vuyolwethu;786780315;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Mthatha
+15670;Completed;2025/11/19 23:21;Mmatumelo;768074110;Kojic Acid Brightening Soap - 100g;2;750.0;130;3;2316.0;George
+15670;Completed;2025/11/19 23:21;Mmatumelo;768074110;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;750.0;130;3;2316.0;George
+15669;Completed;2025/11/19 17:15;Welile;832560758;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;380.0;60;1;380.0;Cape Town
+15665;Completed;2025/11/19 12:28;Nomkhitha;814853181;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;450.0;130;1;450.0;King Williams Town
+15665;Completed;2025/11/19 12:28;Nomkhitha;814853181;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;450.0;130;1;450.0;King Williams Town
+15663;Completed;2025/11/19 10:19;Neo;620707051;Dark inner thighs & Stretch mark Body Combo;2;568.0;60;1;568.0;Warrenton
+15663;Completed;2025/11/19 10:19;Neo;620707051;Luxury Glow Powder For Skin Boost - 100g;2;568.0;60;1;568.0;Warrenton
+15654;Completed;2025/11/18 23:23;Eulanda;827484649;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;220.0;60;1;220.0;Pretoria
+15645;Processing;2025/11/18 22:53;Pamla;837528223;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;670.0;0;1;670.0;Polokwane
+15645;Processing;2025/11/18 22:53;Pamla;837528223;Kojic Acid Brightening Soap - 100g;3;670.0;0;1;670.0;Polokwane
+15645;Processing;2025/11/18 22:53;Pamla;837528223;Vitamin C Brightening & Hydrating Serum;3;670.0;0;1;670.0;Polokwane
+15642;Completed;2025/11/18 22:16;Thandiswa;832510712;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;540.0;60;1;540.0;Wolseley
+15642;Completed;2025/11/18 22:16;Thandiswa;832510712;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;540.0;60;1;540.0;Wolseley
+15642;Completed;2025/11/18 22:16;Thandiswa;832510712;Dark Inner Thighs & Cellulite Body Scrub;3;540.0;60;1;540.0;Wolseley
+15639;Completed;2025/11/18 20:30;Zinziswa;603934925;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;420.0;100;1;420.0;Queenstown
+15633;Completed;2025/11/18 18:45;Monica;835283719;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Arcon park
+15630;Completed;2025/11/18 17:20;Esona;609730522;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Gqeberha
+15629;Completed;2025/11/18 15:40;Lungile;837547116;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;260.0;100;1;260.0;Kempton Park
+15626;Completed;2025/11/18 14:43;Portia;719534789;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Welkom
+15625;Completed;2025/11/18 14:08;Zanele;631551266;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;620.0;0;2;1256.0;Ndwedwe
+15625;Completed;2025/11/18 14:08;Zanele;631551266;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;620.0;0;2;1256.0;Ndwedwe
+15625;Completed;2025/11/18 14:08;Zanele;631551266;Kojic Acid Brightening Soap - 100g;3;620.0;0;2;1256.0;Ndwedwe
+15624;Completed;2025/11/18 13:13;Nontokozo;769473450;Skin Brightening Lotion - 250ml;2;638.0;0;1;638.0;Matatiele
+15624;Completed;2025/11/18 13:13;Nontokozo;769473450;Dark inner thighs & Stretch mark Body Combo;2;638.0;0;1;638.0;Matatiele
+15623;Completed;2025/11/18 09:53;Lutho;832885015;Luxury Glow Powder For Skin Boost - 100g;2;562.0;0;1;562.0;Cape Town
+15623;Completed;2025/11/18 09:53;Lutho;832885015;Glow & Detox Twin Combo;2;562.0;0;1;562.0;Cape Town
+15612;Completed;2025/11/18 08:48;Khangwe;728306965;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;548.0;100;1;548.0;Centurion
+15612;Completed;2025/11/18 08:48;Khangwe;728306965;Dark inner thighs & Stretch mark Body Combo;2;548.0;100;1;548.0;Centurion
+15576;Completed;2025/11/17 18:52;Bertha;790888415;Kojic Acid Brightening Soap - 100g;2;590.0;0;3;1130.0;Port Elizabeth
+15576;Completed;2025/11/17 18:52;Bertha;790888415;Luxury Glow Powder For Skin Boost - 100g;2;590.0;0;3;1130.0;Port Elizabeth
+15573;Completed;2025/11/17 17:01;Deidre;731571455;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;2;1196.0;Dysselsdorp
+15569;Completed;2025/11/17 14:16;Nkosingiphile;662920804;Vitamin C Brightening & Hydrating Serum;3;510.0;0;5;2150.0;Midrand
+15569;Completed;2025/11/17 14:16;Nkosingiphile;662920804;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;510.0;0;5;2150.0;Midrand
+15569;Completed;2025/11/17 14:16;Nkosingiphile;662920804;Kojic Acid Brightening Soap - 100g;3;510.0;0;5;2150.0;Midrand
+15568;Completed;2025/11/17 12:09;Nthabiseng;710045033;Dark inner thighs & Stretch mark Body Combo;3;588.0;0;1;588.0;Cape Town
+15568;Completed;2025/11/17 12:09;Nthabiseng;710045033;Acne and Oil Control Exfoliating Mask - 75ml;3;588.0;0;1;588.0;Cape Town
+15568;Completed;2025/11/17 12:09;Nthabiseng;710045033;Face Moisturizer with Hyaluronic Acid  - 80ml;3;588.0;0;1;588.0;Cape Town
+15561;Completed;2025/11/17 07:03;Sthabile;766881183;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;1;576.0;Mandeni
+15548;Processing;2025/11/16 23:01;Nikiwe;760637057;Melasma/Chubaba Face Combo;2;765.0;0;1;765.0;Durban
+15548;Processing;2025/11/16 23:01;Nikiwe;760637057;Dark inner thighs & Stretch mark Body Combo;2;765.0;0;1;765.0;Durban
+15541;Completed;2025/11/16 14:28;USANDA;717787310;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;260.0;100;2;648.0;Lusikisiki
+15540;Completed;2025/11/16 13:37;Buyisiwe;681097385;Dark Inner Thighs & Cellulite Body Scrub;2;508.0;60;1;508.0;Durban
+15540;Completed;2025/11/16 13:37;Buyisiwe;681097385;Dark inner thighs & Stretch mark Body Combo;2;508.0;60;1;508.0;Durban
+15537;Completed;2025/11/16 00:01;KHANYISILE;610928624;Glow Body Combo;3;756.0;0;1;756.0;Durban
+15537;Completed;2025/11/16 00:01;KHANYISILE;610928624;Acne and Oil Control Exfoliating Mask - 75ml;3;756.0;0;1;756.0;Durban
+15537;Completed;2025/11/16 00:01;KHANYISILE;610928624;Kojic Acid Brightening Soap - 100g;3;756.0;0;1;756.0;Durban
+15536;Completed;2025/11/15 21:50;Sinenhlahla;694155800;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Richards Bay
+15535;Completed;2025/11/15 20:56;Nombasa;769572384;Luxury Glow Powder For Skin Boost - 100g;2;600.0;0;1;600.0;Vereeniging
+15535;Completed;2025/11/15 20:56;Nombasa;769572384;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;600.0;0;1;600.0;Vereeniging
+15534;Completed;2025/11/15 18:32;Bulelwa;730358752;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;1;576.0;Gqeberha
+15533;Completed;2025/11/15 18:09;Mosa;714764425;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;780.0;0;1;780.0;Kathu
+15533;Completed;2025/11/15 18:09;Mosa;714764425;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;780.0;0;1;780.0;Kathu
+15533;Completed;2025/11/15 18:09;Mosa;714764425;Dark Spots & Pimples Face Combo;3;780.0;0;1;780.0;Kathu
+15532;Completed;2025/11/15 17:27;Lindiwe;781289204;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;548.0;100;2;968.0;Capetown
+15532;Completed;2025/11/15 17:27;Lindiwe;781289204;Dark inner thighs & Stretch mark Body Combo;2;548.0;100;2;968.0;Capetown
+15531;Completed;2025/11/15 13:21;Mpho;829663004;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;1;576.0;Midrand
+15530;Completed;2025/11/15 09:48;Portia;795944752;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Acornhoek
+15529;Completed;2025/11/15 08:04;Grace;794996142;Dark inner thighs & Stretch mark Body Combo;2;588.0;0;1;588.0;Johannesburg
+15529;Completed;2025/11/15 08:04;Grace;794996142;Kojic Acid Brightening Soap - 100g;2;588.0;0;1;588.0;Johannesburg
+15528;Completed;2025/11/15 08:03;Suzan;786581700;Dark inner thighs & Stretch mark Body Combo;3;598.0;0;1;598.0;Embalenhle
+15528;Completed;2025/11/15 08:03;Suzan;786581700;Kojic Acid Brightening Soap - 100g;3;598.0;0;1;598.0;Embalenhle
+15528;Completed;2025/11/15 08:03;Suzan;786581700;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;598.0;0;1;598.0;Embalenhle
+15527;Completed;2025/11/15 08:00;Nobulali;632647736;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;260.0;100;1;260.0;Delft
+15526;Completed;2025/11/15 05:12;Tumelontle;730820504;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Vryburg
+15525;Completed;2025/11/15 02:01;Siyanda;829462695;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;220.0;60;1;220.0;Kariega
+15524;Completed;2025/11/14 22:45;Lerato;615477675;Glow & Detox Twin Combo;2;502.0;0;1;502.0;Wolmaransstad
+15524;Completed;2025/11/14 22:45;Lerato;615477675;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;502.0;0;1;502.0;Wolmaransstad
+15523;Completed;2025/11/14 22:21;Mmamore;663818625;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Polokwane
+15522;Processing;2025/11/14 17:44;Mookgo;796765121;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;220.0;60;1;220.0;Viljoenskroon
+15521;Completed;2025/11/14 14:44;Tebogo;812583976;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Pretoria
+15518;Completed;2025/11/14 11:49;Yonela;608510666;Dark inner thighs & Stretch mark Body Combo;2;608.0;0;3;1624.0;Queenstown
+15518;Completed;2025/11/14 11:49;Yonela;608510666;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;608.0;0;3;1624.0;Queenstown
+15517;Completed;2025/11/14 11:26;Zama;769083204;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;730.0;0;4;2538.0;Johannesburg
+15517;Completed;2025/11/14 11:26;Zama;769083204;Skin Brightening Lotion - 250ml;3;730.0;0;4;2538.0;Johannesburg
+15517;Completed;2025/11/14 11:26;Zama;769083204;Luxury Glow Powder For Skin Boost - 100g;3;730.0;0;4;2538.0;Johannesburg
+15516;Completed;2025/11/14 07:29;Nomawethu;793447764;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Mbombela
+15515;Completed;2025/11/14 07:17;Busisiwe;836828055;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;1079.0;100;2;1807.0;Durban
+15515;Completed;2025/11/14 07:17;Busisiwe;836828055;Glow & Detox Twin Combo;3;1079.0;100;2;1807.0;Durban
+15515;Completed;2025/11/14 07:17;Busisiwe;836828055;Melasma/Chubaba Face Combo;3;1079.0;100;2;1807.0;Durban
+15513;Completed;2025/11/14 06:59;Cathrine;662239471;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Fourways
+15508;Completed;2025/11/13 17:27;DAISY;835088095;SPF 50+ Sun Protection - Sunscreen;2;510.0;0;2;1050.0;Mokopane
+15508;Completed;2025/11/13 17:27;DAISY;835088095;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;510.0;0;2;1050.0;Mokopane
+15507;Completed;2025/11/13 17:12;Ntombikayise;721183017;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Port Elizabeth
+15506;Processing;2025/11/13 16:33;Nelly;723547773;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Rustenburg
+15505;Completed;2025/11/13 11:51;Landelwa;785650048;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;260.0;100;1;260.0;Cape Town
+15502;Completed;2025/11/13 10:54;Sharon;714523335;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;260.0;100;1;260.0;Pretoria
+15501;Completed;2025/11/13 10:05;Xoliswa;715189356;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Randfontein
+15500;Completed;2025/11/13 09:33;Atenkosi;631542872;Melasma/Chubaba Face Combo;2;963.0;0;1;963.0;Pretoria
+15500;Completed;2025/11/13 09:33;Atenkosi;631542872;Glow Body Combo;2;963.0;0;1;963.0;Pretoria
+15490;Completed;2025/11/12 20:31;Mualusi;766404312;Distributors Combo( 12 Moisturising butter);1;1320.0;0;9;12055.0;Florida
+15469;Completed;2025/11/12 08:21;Innocentian;738114639;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Johannesburg
+15462;Completed;2025/11/12 03:54;Sindisiwe;620465718;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;East London
+15457;Completed;2025/11/12 01:26;Phelisa Mendy;733714945;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;260.0;100;2;640.0;Cape Town
+15452;Completed;2025/11/11 19:06;Nomthandazo;781828723;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Tsakane
+15451;Completed;2025/11/11 11:04;Boitumelo;735737394;Dark inner thighs & Stretch mark Body Combo;1;576.0;0;1;576.0;Pretoria
+15450;Completed;2025/11/11 05:57;Bonolo;725421463;SPF 50+ Sun Protection - Sunscreen;2;667.0;0;1;667.0;Vereeniging
+15450;Completed;2025/11/11 05:57;Bonolo;725421463;Melasma/Chubaba Face Combo;2;667.0;0;1;667.0;Vereeniging
+15449;Completed;2025/11/10 21:17;Kholiseka;655907959;Dark Inner Thighs & Cellulite Body Scrub;2;420.0;100;1;420.0;Makhanda
+15449;Completed;2025/11/10 21:17;Kholiseka;655907959;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;420.0;100;1;420.0;Makhanda
+15448;Completed;2025/11/10 10:39;Ruth;623009181;Skin Brightening Lotion - 250ml;1;450.0;100;6;3310.0;Modimolle, Hospital View, Diedrick Street, 42
+15447;Completed;2025/11/10 09:24;Anele;832329067;Dark inner thighs & Stretch mark Body Combo;2;608.0;0;1;608.0;Margate
+15447;Completed;2025/11/10 09:24;Anele;832329067;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;608.0;0;1;608.0;Margate
+15445;Processing;2025/11/10 06:20;Ziyanda;795738068;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Alice
+15443;Completed;2025/11/09 23:02;Katlego;713146394;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;260.0;100;1;260.0;Randburg, Johannesburg
+15441;Completed;2025/11/09 20:22;Sibongile;832771418;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Hillcrest
+15439;Completed;2025/11/09 17:09;Thembela;605058220;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;260.0;100;1;260.0;East London, Mdantsane
+15438;Completed;2025/11/09 14:09;Fezile;712036198;Glow Body Combo;3;1124.0;0;2;2610.0;Middelburg town
+15438;Completed;2025/11/09 14:09;Fezile;712036198;Skin Brightening Lotion - 250ml;3;1124.0;0;2;2610.0;Middelburg town
+15438;Completed;2025/11/09 14:09;Fezile;712036198;Dark inner thighs & Stretch mark Body Combo;3;1124.0;0;2;2610.0;Middelburg town
+15436;Completed;2025/11/09 11:06;Tiego Gertrude;836840344;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Stinkwater
+15435;Completed;2025/11/09 09:47;Thabiso;784402356;Dark inner thighs & Stretch mark Body Combo;3;598.0;0;1;598.0;Pietermaritzburg
+15435;Completed;2025/11/09 09:47;Thabiso;784402356;Dark Inner Thighs & Cellulite Body Scrub;3;598.0;0;1;598.0;Pietermaritzburg
+15435;Completed;2025/11/09 09:47;Thabiso;784402356;Kojic Acid Brightening Soap - 100g;3;598.0;0;1;598.0;Pietermaritzburg
+15434;Completed;2025/11/09 07:50;Yandisa;742439032;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;640.0;0;1;640.0;Ngcobo
+15434;Completed;2025/11/09 07:50;Yandisa;742439032;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;640.0;0;1;640.0;Ngcobo
+15432;Completed;2025/11/08 17:18;Mpho;670117770;Kojic Acid Brightening Soap - 100g;3;598.0;0;1;598.0;Bloemfontein
+15432;Completed;2025/11/08 17:18;Mpho;670117770;Dark inner thighs & Stretch mark Body Combo;3;598.0;0;1;598.0;Bloemfontein
+15432;Completed;2025/11/08 17:18;Mpho;670117770;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;598.0;0;1;598.0;Bloemfontein
+15428;Completed;2025/11/08 13:48;Miralda;659928462;Face Moisturizer with Hyaluronic Acid  - 80ml;4;880.0;0;1;880.0;Phuthaditjhaba
+15428;Completed;2025/11/08 13:48;Miralda;659928462;Kojic Acid Brightening Soap - 100g;4;880.0;0;1;880.0;Phuthaditjhaba
+15428;Completed;2025/11/08 13:48;Miralda;659928462;Vitamin C Brightening & Hydrating Serum;4;880.0;0;1;880.0;Phuthaditjhaba
+15428;Completed;2025/11/08 13:48;Miralda;659928462;Skin Brightening Lotion - 250ml;4;880.0;0;1;880.0;Phuthaditjhaba
+15427;Completed;2025/11/08 11:28;Boitumelo;845982528;Luxury Glow Powder For Skin Boost - 100g;2;697.0;0;1;697.0;Kagiso 2 Ext 8
+15427;Completed;2025/11/08 11:28;Boitumelo;845982528;Melasma/Chubaba Face Combo;2;697.0;0;1;697.0;Kagiso 2 Ext 8
+15426;Completed;2025/11/08 10:12;Bhoni;836241983;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Lusikisiki
+15424;Completed;2025/11/08 07:18;Ayanda;657256826;Dark inner thighs & Stretch mark Body Combo;2;548.0;100;1;548.0;Polokwane
+15424;Completed;2025/11/08 07:18;Ayanda;657256826;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;548.0;100;1;548.0;Polokwane
+15423;Completed;2025/11/08 06:51;Nombulelo;643030531;Dark inner thighs & Stretch mark Body Combo;2;508.0;0;1;508.0;Cape Town
+15423;Completed;2025/11/08 06:51;Nombulelo;643030531;Luxury Glow Powder For Skin Boost - 100g;2;508.0;0;1;508.0;Cape Town
+15422;Completed;2025/11/08 00:04;Princess;620442588;Glow & Detox Twin Combo;2;630.0;0;1;630.0;Cape town
+15422;Completed;2025/11/08 00:04;Princess;620442588;Dark inner thighs & Stretch mark Body Combo;2;630.0;0;1;630.0;Cape town
+15421;Completed;2025/11/07 18:27;Viyiswa;732679445;Dark inner thighs & Stretch mark Body Combo;3;608.0;0;1;608.0;Kimberley
+15421;Completed;2025/11/07 18:27;Viyiswa;732679445;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;608.0;0;1;608.0;Kimberley
+15421;Completed;2025/11/07 18:27;Viyiswa;732679445;Dark Inner Thighs & Cellulite Body Scrub;3;608.0;0;1;608.0;Kimberley
+15415;Completed;2025/11/07 12:40;Sindisiwe;731576269;Face Moisturizer with Hyaluronic Acid  - 80ml;2;522.0;0;1;522.0;Vosloorus
+15415;Completed;2025/11/07 12:40;Sindisiwe;731576269;Glow & Detox Twin Combo;2;522.0;0;1;522.0;Vosloorus
+15412;Completed;2025/11/07 09:32;Nondumiso;683166320;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Vryheid
+15411;Completed;2025/11/07 07:24;Nossy;605573620;Glow Body Combo;2;636.0;0;1;636.0;Port Elizabeth
+15411;Completed;2025/11/07 07:24;Nossy;605573620;Kojic Acid Brightening Soap - 100g;2;636.0;0;1;636.0;Port Elizabeth
+15410;Completed;2025/11/07 06:51;Thumeka;604408565;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Capetown
+15409;Completed;2025/11/07 02:12;Nosipho;765232419;Melasma/Chubaba Face Combo;2;765.0;0;1;765.0;Port Elizabeth
+15409;Completed;2025/11/07 02:12;Nosipho;765232419;Dark inner thighs & Stretch mark Body Combo;2;765.0;0;1;765.0;Port Elizabeth
+15408;Completed;2025/11/06 17:04;Vuyo;812389117;Dark inner thighs & Stretch mark Body Combo;2;508.0;0;1;508.0;Germiston
+15408;Completed;2025/11/06 17:04;Vuyo;812389117;Luxury Glow Powder For Skin Boost - 100g;2;508.0;0;1;508.0;Germiston
+15407;On hold;2025/11/06 14:10;Buli;826790707;Dark inner thighs & Stretch mark Body Combo;2;348.0;60;0;0.0;Ibhayi
+15407;On hold;2025/11/06 14:10;Buli;826790707;Dark inner thighs & Stretch mark Body Combo;2;348.0;60;0;0.0;Ibhayi
+15405;Completed;2025/11/06 07:02;Sigabi;609439530;Glow Body Combo;2;646.0;0;3;1342.0;King Williams Town
+15405;Completed;2025/11/06 07:02;Sigabi;609439530;Dark Inner Thighs & Cellulite Body Scrub;2;646.0;0;3;1342.0;King Williams Town
+15401;Completed;2025/11/05 23:13;Sthembile;637149289;Glow Body Combo;1;546.0;60;2;706.0;Ingwavuma
+15400;Processing;2025/11/05 21:39;Ncobile;728737419;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;260.0;100;1;260.0;Evander
+15399;Completed;2025/11/05 21:00;Phindile;825980002;Dark inner thighs & Stretch mark Body Combo;3;618.0;0;2;1088.0;Durban
+15399;Completed;2025/11/05 21:00;Phindile;825980002;Face Moisturizer with Hyaluronic Acid  - 80ml;3;618.0;0;2;1088.0;Durban
+15399;Completed;2025/11/05 21:00;Phindile;825980002;Kojic Acid Brightening Soap - 100g;3;618.0;0;2;1088.0;Durban
+15398;Completed;2025/11/05 19:46;Lerato;780352588;Dark inner thighs & Stretch mark Body Combo;2;765.0;0;1;765.0;Johannesburg
+15398;Completed;2025/11/05 19:46;Lerato;780352588;Melasma/Chubaba Face Combo;2;765.0;0;1;765.0;Johannesburg
+15397;Completed;2025/11/05 18:23;Nozipho;792193838;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;260.0;100;2;520.0;Ermelo
+15396;Completed;2025/11/05 16:54;Thembelihle;678801302;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Durban
+15395;Completed;2025/11/05 12:51;Ntombi;798456045;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;3;540.0;60;1;540.0;Bethal
+15395;Completed;2025/11/05 12:51;Ntombi;798456045;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;540.0;60;1;540.0;Bethal
+15395;Completed;2025/11/05 12:51;Ntombi;798456045;Dark Inner Thighs & Cellulite Body Scrub;3;540.0;60;1;540.0;Bethal
+15394;Completed;2025/11/05 09:09;Ashley;714627125;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Roodepoort
+15393;Completed;2025/11/05 08:06;Thembakazi Alicia Siyoyo;716252239;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;260.0;100;5;1706.0;Ixopo
+15392;Completed;2025/11/05 06:11;Fezeka;787393254;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Mount Ayliff
+15391;Completed;2025/11/05 06:08;Rendani;744369173;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;Welkom
+15391;Completed;2025/11/05 06:08;Rendani;744369173;Dark inner thighs & Stretch mark Body Combo;2;576.0;0;1;576.0;Welkom
+15389;Completed;2025/11/04 21:25;Ncamsile;833457790;Melasma/Chubaba Face Combo;2;637.0;0;1;637.0;Dolphin Coast
+15389;Completed;2025/11/04 21:25;Ncamsile;833457790;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;2;637.0;0;1;637.0;Dolphin Coast
+15388;Completed;2025/11/04 20:57;Thandi;794700578;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;3;1076.0;Riviersonderend
+15387;Completed;2025/11/04 20:51;Thandi;794700578;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;380.0;60;3;1076.0;Riviersonderend
+15386;Completed;2025/11/04 20:43;Thandi;794700578;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;3;1076.0;Riviersonderend
+15385;Completed;2025/11/04 19:03;Nkoka;761779032;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;260.0;100;2;480.0;Kathu
+15384;Completed;2025/11/04 10:53;Rabia;684683840;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Pretoria
+15383;Completed;2025/11/04 06:24;Nokuthula;636911021;Melasma/Chubaba Face Combo;2;597.0;0;1;597.0;Johannesburg
+15383;Completed;2025/11/04 06:24;Nokuthula;636911021;Acne and Oil Control Exfoliating Mask - 75ml;2;597.0;0;1;597.0;Johannesburg
+15381;Completed;2025/11/03 20:59;Onkabetse;681696039;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Kathu
+15377;Completed;2025/11/03 13:46;Rejoice;787026345;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;2;480.0;100;3;1643.0;Kuruman Mibistand
+15377;Completed;2025/11/03 13:46;Rejoice;787026345;Luxury Glow Powder For Skin Boost - 100g;2;480.0;100;3;1643.0;Kuruman Mibistand
+15376;Completed;2025/11/03 13:41;Dineo;621107995;Kojic Acid Brightening Soap - 100g;3;510.0;0;9;5905.0;Kimberley
+15376;Completed;2025/11/03 13:41;Dineo;621107995;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;3;510.0;0;9;5905.0;Kimberley
+15376;Completed;2025/11/03 13:41;Dineo;621107995;Vitamin C Brightening & Hydrating Serum;3;510.0;0;9;5905.0;Kimberley
+15375;Completed;2025/11/03 09:50;Faith Zimasa;836813830;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;220.0;60;2;608.0;Engcobo
+15374;Completed;2025/11/03 09:32;Lindokuhle;726811858;Kojic Acid Brightening Soap - 100g;2;588.0;0;1;588.0;Emalahleni witbank
+15374;Completed;2025/11/03 09:32;Lindokuhle;726811858;Dark inner thighs & Stretch mark Body Combo;2;588.0;0;1;588.0;Emalahleni witbank
+15372;Completed;2025/11/03 08:57;Miriam;827917932;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;260.0;100;3;800.0;Germiston
+15371;Completed;2025/11/03 07:16;Nongcebo;712613056;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;1;348.0;Kempton Park
+15369;Completed;2025/11/03 04:13;Mbalenhle;724792691;Glowing Skin & Stretch Mark Moisturizing Butter - Tub 250ml;1;260.0;100;2;520.0;Pretoria
+15368;Completed;2025/11/02 23:02;Lanie;616452235;Dark Inner Thighs & Cellulite Body Scrub;2;637.0;0;1;637.0;Turffontain
+15368;Completed;2025/11/02 23:02;Lanie;616452235;Melasma/Chubaba Face Combo;2;637.0;0;1;637.0;Turffontain
+15367;Completed;2025/11/02 22:28;Yonela;795970815;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;420.0;100;3;1100.0;CapeTown
+15366;Completed;2025/11/02 14:51;Mahlatse;609331937;Dark inner thighs & Stretch mark Body Combo;2;508.0;0;1;508.0;Pretoria
+15366;Completed;2025/11/02 14:51;Mahlatse;609331937;Luxury Glow Powder For Skin Boost - 100g;2;508.0;0;1;508.0;Pretoria
+15363;Completed;2025/11/02 06:24;Precious;726844218;Dark Inner Thighs & Cellulite Body Scrub;2;637.0;0;1;637.0;Kimberley
+15363;Completed;2025/11/02 06:24;Precious;726844218;Melasma/Chubaba Face Combo;2;637.0;0;1;637.0;Kimberley
+15360;Completed;2025/11/01 22:19;Rhulani;607458755;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;380.0;60;4;1520.0;Giyani
+15358;Processing;2025/11/01 12:27;Bongiwe;672007689;Dark inner thighs & Stretch mark Body Combo;2;508.0;0;2;856.0;East London
+15358;Processing;2025/11/01 12:27;Bongiwe;672007689;Luxury Glow Powder For Skin Boost - 100g;2;508.0;0;2;856.0;East London
+15357;Completed;2025/11/01 12:11;Bongiwe;672007689;Dark inner thighs & Stretch mark Body Combo;1;348.0;60;2;856.0;East London
+15356;Completed;2025/11/01 12:04;Gloria;745774273;Dark Inner Thighs & Cellulite Body Scrub;1;260.0;100;2;520.0;Pongola
+15355;Completed;2025/11/01 11:56;Gloria;745774273;Dark Inner Thighs & Cellulite Body Scrub;1;260.0;100;2;520.0;Pongola
+15354;Completed;2025/11/01 09:15;Asive;782386733;Dark inner thighs & Stretch mark Body Combo;1;388.0;100;1;388.0;Sunnyside, Pretoria
+15352;Completed;2025/11/01 07:24;Sinalo;734121162;Glowing Skin & Stretch Mark Moisturizing Butter - Squeeze 250ml;1;220.0;60;1;220.0;Cape Town
