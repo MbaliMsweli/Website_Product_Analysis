@@ -30,6 +30,10 @@ print(website_df.columns)
 # Convert order_date to real dates
 website_df["Order Date"] = pd.to_datetime(website_df["Order Date"])
 
+#Convert Order number to an object
+website_df["Order Number"] = website_df["Order Number"].astype(str)
+
+
 #Print data types
 print("\nDATA TYPES:")
 print(website_df.dtypes)
